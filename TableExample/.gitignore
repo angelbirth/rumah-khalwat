@@ -3,3 +3,6 @@
 /dist/
 /sql1.sql
 /TableExample.iml
+
+*.class
+*.jar
